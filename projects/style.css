@@ -36,7 +36,7 @@ html::-webkit-scrollbar-track{
   background: rgb(235, 202, 245);
 }
 html::-webkit-scrollbar-thumb{
-  background: #420177;
+  background: #cdcdcd;
 }
 
 /* navbar starts */
@@ -63,7 +63,7 @@ section{
   text-align: center;
 }
 .heading span{
-  color: rgb(115, 3, 167);
+  color: rgb(164, 164, 164);
 }
 header .logo{
   font-size: 1.9rem;

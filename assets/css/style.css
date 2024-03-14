@@ -22,7 +22,7 @@ body {
 }
 
 *::selection {
-  background: #2b3dda;
+  background: #f7f7f7;
   color: #fff;
 }
 
@@ -84,7 +84,7 @@ section {
   text-align: center;
 }
 .heading span {
-  color: rgb(115, 3, 167);
+  color: #2506ad;
 }
 header .logo {
   font-size: 1.9rem;
@@ -461,13 +461,13 @@ header .navbar ul li a:hover {
 /* skills section starts */
 .skills {
   min-height: 90vh;
-  background: linear-gradient(to bottom, #57059e, #4a00e0);
+  background: linear-gradient(to bottom, #f7f7f7, #ffffff);
 }
 .skills h2 {
-  color: #fff;
+  color: #000000;
 }
 .skills .heading span {
-  color: rgb(255, 230, 0);
+  color:#2506ad;
 }
 .skills .container {
   background: rgba(0, 0, 22, 0.4);
@@ -488,8 +488,8 @@ header .navbar ul li a:hover {
   margin-bottom: 15px;
   padding: 10px;
   border-radius: 1rem;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-  background: rgba(0, 0, 22, 0.9);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.088);
+  background: rgba(0, 0, 0, 0.9);
   transition: 0.2s;
 }
 .skills .container .bar:hover {
@@ -534,7 +534,7 @@ header .navbar ul li a:hover {
 
 /* education section starts */
 .education {
-  background: #e5ecfb;
+  background: #ffffff;
   min-height: 80vh;
 }
 .education .qoute {
@@ -588,7 +588,7 @@ header .navbar ul li a:hover {
 }
 .education .box-container .box .content h3 {
   font-size: 2.5rem;
-  color: #012970;
+  color: #2506ad;
   padding: 0.5rem 0;
   font-weight: 600;
   text-align: left;
@@ -649,7 +649,7 @@ header .navbar ul li a:hover {
   padding: 1rem;
 }
 .work .heading span {
-  color: rgb(255, 230, 0);
+  color: #2506ad;
 }
 .work .box-container {
   display: flex;
